@@ -3,7 +3,7 @@
         “apps”: [],
         “details”: [
             {
-                “appID”: MD2CGNPAYG.vn.foody.vn.foody.TestLink”,
+                “appID”: MD2CGNPAYG.vn.foody.TestLink”,
                 “paths”: [“*”],
             }
         ]
