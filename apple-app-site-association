@@ -3,7 +3,7 @@
         “apps”: [],
         “details”: [
             {
-                “appID”: MD2CGNPAYG.vn.foody.DeepLink-UniversalLink”,
+                “appID”: MD2CGNPAYG.vn.foody.vn.foody.TestLink”,
                 “paths”: [“*”],
             }
         ]
