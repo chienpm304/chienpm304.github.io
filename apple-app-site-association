@@ -1,10 +1,10 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
-                “appID”: "MD2CGNPAYG.vn.foody.TestLink”,
-                “paths”: [“*”],
+                "appID": "MD2CGNPAYG.vn.foody.TestLink",
+                "paths": [ "*"]
             }
         ]
     }
